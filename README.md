@@ -5,10 +5,12 @@ Aplikasi web berbasis Algoritma Genetika untuk mengoptimalkan urutan penampilan 
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="500" height="258" alt="image" src="https://github.com/user-attachments/assets/40a19a7d-7161-4604-ad8f-9a8de54e927e" />
+
 
 ### Upload Dataset
-![Upload Dataset](screenshots/upload-dataset.png)
+<img width="496" height="256" alt="image" src="https://github.com/user-attachments/assets/862d5b5f-c0a3-4816-a90e-119c370edaac" />
+
 
 ### Pengaturan Parameter Algoritma
 ![Set Parameter](screenshots/set-parameter.png)
