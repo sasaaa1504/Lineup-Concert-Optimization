@@ -13,13 +13,16 @@ Aplikasi web berbasis Algoritma Genetika untuk mengoptimalkan urutan penampilan 
 
 
 ### Pengaturan Parameter Algoritma
-![Set Parameter](screenshots/set-parameter.png)
+<img width="496" height="254" alt="image" src="https://github.com/user-attachments/assets/e3171371-59b9-420f-b0bc-3d5868ffe290" />
+
 
 ### Hasil Optimasi
-![Hasil Optimasi](screenshots/hasil-optimasi.png)
+<img width="499" height="260" alt="image" src="https://github.com/user-attachments/assets/c30e996c-7893-4435-aca3-7c94005b73b1" />
+
 
 ### PDF Rundown
-![PDF Rundown](screenshots/pdf-rundown.png)
+<img width="501" height="255" alt="image" src="https://github.com/user-attachments/assets/021eb390-8ea0-4871-b5b6-f9ab36fbb144" />
+
 
 ## Tech Stack
 
